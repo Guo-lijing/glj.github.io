@@ -1,0 +1,39 @@
+
+#Hd{
+    background: azure;
+    border: rgba(0,0,0,0);
+    top: 8px;
+    right: 8px;
+    /*border: aquamarine solid 2px;*/
+    position: absolute;
+}
+#Jd{
+    background: azure;
+    border: rgba(0,0,0,0);
+    top: 8px;
+    left: 8px;
+    /*border: aquamarine solid 2px;*/
+    position: absolute;
+}
+#Td{
+    text-align: center;
+}
+.Md{
+    display: flex;
+    justify-content: center;
+}
+.Fd{
+
+}
+.in{
+    font-size:2em;
+    margin-left:20px;
+    margin-right:20px;
+    width: 160px;
+}
+body{
+    background:url("img_1.png");
+    background-repeat:no-repeat;/*背景不重复*/
+    background-size:1550px;/*背景尺寸*/
+    background-position:center;/*背景位置*/
+}
